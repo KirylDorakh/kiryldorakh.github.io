@@ -174,7 +174,7 @@ body {
     color: #fff;
     z-index: 2;
     background-color: rgba(39, 39, 39, 0.3);
-    transition: all 0.5s ease-in-out;
+
 }
 
 .main-header a {
@@ -630,7 +630,7 @@ footer h1{
 
 
 /* PHONE PART */
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 900px) {
     .main-header .menu-icon {
         display: block;
     }
